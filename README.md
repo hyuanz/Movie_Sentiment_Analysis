@@ -1,4 +1,4 @@
-### Dataset Location
+### Dataset
 https://ai.stanford.edu/~amaas/data/sentiment/aclImdb_v1.tar.gz 
 ### Performance Report
 Report Performance.ipynb
